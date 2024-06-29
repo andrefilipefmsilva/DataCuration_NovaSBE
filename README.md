@@ -3,3 +3,4 @@
 
 Course taught by Professor Qiwei Han (https://qiweihan.github.io/)
 
+-- This repo needs reorganizing. When time allows --
